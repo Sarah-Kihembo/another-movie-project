@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: blue;
+    background-color: bisque;
+
+
+}
+span{
+    color: rgb(199, 30, 86);
+}
+header{
+    background-color: rgb(247, 221, 189);
+}
+footer{
+    text-align: right;
+}

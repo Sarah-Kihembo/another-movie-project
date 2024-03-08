@@ -1,0 +1,83 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(./images/fad.jpg);
+    font-size: 1.5rem;
+    color: #0C359E;
+
+}
+span{
+    color: #FF3EA5;
+}
+body {
+    background-color: #FFF3C7;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    font-family: "DM Serif Display", serif;
+}
+
+ul{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 1rem;
+    margin-right: 10px;
+    
+}
+#Moviecategories{
+    display: flex;
+    gap: 30px;
+    font-size: 2rem;
+    border: 2px solid beige;
+    border-radius: 10px;
+    background-color: rgb(200, 161, 113);
+    border: 2px solid peru;
+}   
+
+button{
+    background: none;
+    outline: none;
+    border: 2px solid peru;
+    background-color: rgb(200, 161, 113);
+    padding: 5px;
+    border-radius: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 700;
+    font-family: "DM Serif Display", serif;
+    font-size: 14px;
+    transform: scale(1.2);
+    margin-left: 10px;
+
+}
+
+h1{
+    font-family: "Madimi One", sans-serif;
+}
+
+h2{
+    font-family: "Pacifico", cursive;
+    align-items: center;
+}
+
+ol{
+    display: flex;
+
+}
+.Categories{
+    text-align: center;
+}
+.movie{
+    text-align: center;
+}
+.Top-5{
+    text-align: center;
+}
+footer{
+    text-align: right;
+}
